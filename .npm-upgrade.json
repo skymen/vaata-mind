@@ -1,0 +1,12 @@
+{
+  "ignore": {
+    "sass": {
+      "versions": "1.39.0",
+      "reason": ""
+    },
+    "sass-loader": {
+      "versions": "12.1.0",
+      "reason": ""
+    }
+  }
+}
