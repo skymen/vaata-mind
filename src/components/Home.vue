@@ -1,14 +1,15 @@
 <template>
-  <p>Hello</p>
+  <v-container>
+  </v-container>
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'Home',
+  name: 'HelloWorld',
 
-  components: {
-  },
+  data: () => ({
+  }),
 });
 </script>
