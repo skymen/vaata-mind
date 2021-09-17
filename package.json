@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@mdi/font": "^6.1.95",
+    "@notionhq/client": "^0.3.2",
     "core-js": "^3.17.3",
     "dexie": "^3.0.3",
     "idb": "^6.1.3",
